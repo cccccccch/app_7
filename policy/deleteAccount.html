@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>注销帐号</title>
+  <style>
+    * {
+      padding: 0;
+      margin: 0;
+    }
+
+    #app {
+      width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+      background-color: #f0f0fd;
+      font-family: PingFangSC-Medium, PingFang SC;
+    }
+
+    p {
+      padding: 0;
+      margin: 0;
+      line-height: 1.5;
+    }
+
+    .one {
+      padding-bottom: 1.06rem;
+      align-items: center;
+      width: 100%;
+      height: 100%;
+      background-color: #ffffff;
+    }
+
+    .content {
+      width: 100%;
+      box-sizing: border-box;
+      padding: 0.666666rem;
+    }
+
+    .title {
+      font-size: 0.48rem;
+      font-weight: bold;
+      color: #2f2f4a;
+    }
+
+    .sub-title {
+      font-size: 0.42rem;
+      color: #2f2f4a;
+      margin: 0.4rem 0;
+    }
+
+    .txt {
+      position: relative;
+      margin-bottom: 0.133333rem;
+      font-size: 0.373333rem;
+      color: #5e5e83;
+      padding-left: 0.266666rem;
+
+    }
+
+    .txt::before {
+      position: absolute;
+      left: 0;
+      top: 0.186666rem;
+      width: 0.133333rem;
+      height: 0.133333rem;
+      background-color: #d8d8d8;
+      border-radius: 50%;
+      margin-right: 0.133333rem;
+      content: "";
+      display: inline-block;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<script>
+  !function (e, t) { function n() { t.body ? t.body.style.fontSize = 12 * o + "px" : t.addEventListener("DOMContentLoaded", n) } function d() { var e = i.clientWidth / 10; i.style.fontSize = e + "px" } var i = t.documentElement, o = e.devicePixelRatio || 1; if (n(), d(), e.addEventListener("resize", d), e.addEventListener("pageshow", function (e) { e.persisted && d() }), o >= 2) { var a = t.createElement("body"), s = t.createElement("div"); s.style.border = ".5px solid transparent", a.appendChild(s), i.appendChild(a), 1 === s.offsetHeight && i.classList.add("hairlines"), i.removeChild(a) } }(window, document);
+</script>
+
+<body>
+  <div id="app">
+    <div class="one">
+      <div class="content">
+        <p class="title">申请注销</p>
+        <p class="sub-title">申请注销账号后您将永久删除以下数据：</p>
+        <p class="txt">账号相关个人信息</p>
+        <p class="txt">云图智能设备相关数据</p>
+        <p class="txt">作为管理员将删除该账号创建的所有家庭、房间、设备、场景</p>
+        <p class="txt">作为家庭成员将解除与其相关所有家庭关系</p>
+        <p class="sub-title">风险提示:</p>
+        <p class="txt">您的账号将永久删除，且无法恢复</p>
+        <p class="txt">您的账号关联的第三方应用将自动解除绑定关系</p>
+        <p class="txt">删除账号后可以使用该手机号码/邮箱重新注册一个新账号，但该账号下的数据无法找回</p>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>

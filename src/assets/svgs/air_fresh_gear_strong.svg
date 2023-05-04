@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="344px" height="800px" viewBox="0 0 344 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 3备份 7</title>
+    <defs>
+        <linearGradient x1="22.4599141%" y1="15.41021%" x2="107.969962%" y2="85.244388%" id="linearGradient-1">
+            <stop stop-color="#7ED7FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.1393707%" y1="10.8885624%" x2="55.1393707%" y2="91.1665985%" id="linearGradient-2">
+            <stop stop-color="#8FFDEB" offset="0%"></stop>
+            <stop stop-color="#7ED6FE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="24.9357174%" x2="20.8556803%" y2="79.86558%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.416466346" offset="0%"></stop>
+            <stop stop-color="#92FDEB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="设备控制页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板备份-2" transform="translate(-3318.000000, -260.000000)">
+            <g id="编组-3备份-7" transform="translate(3318.000000, 260.000000)">
+                <path d="M167.973965,515.099715 C199.881967,586.734942 264.619131,640.459273 343.019943,657.064851 L343.019943,800 C212.058138,782.611526 101.679525,699.868788 45.5840456,585.546363 C79.4648188,566.07123 148.208786,526.287344 167.973965,515.099715 Z" id="路径" fill="url(#linearGradient-1)"></path>
+                <path d="M162.88324,298.559458 C149.086385,329.393866 141.417765,363.544954 141.417765,399.479183 C141.417765,435.482565 149.115929,469.695937 162.962963,500.57689 C116.043106,527.246702 87.9184387,543.496051 39.9008173,570.940171 C14.3502247,519.213867 2.55795385e-13,461.014913 2.55795385e-13,399.479183 C2.55795385e-13,337.904601 14.3683508,279.67101 39.9492259,227.920228 C70.4610244,245.456599 141.744909,286.507839 162.88324,298.559458 Z" id="路径" fill="url(#linearGradient-2)"></path>
+                <path d="M343.019943,-1.70530257e-13 L343.019943,142.845805 C264.541434,159.454761 199.751452,213.220797 167.866327,284.900285 C131.711843,263.984101 83.1701048,235.953392 45.5840456,214.221567 C101.703604,100.021329 212.074398,17.3726354 343.019943,-1.70530257e-13 Z" id="路径" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

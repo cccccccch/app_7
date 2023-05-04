@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>消息</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页（上推）" transform="translate(-560.000000, -74.000000)">
+            <g id="编组-11" transform="translate(36.000000, 70.500000)">
+                <g id="右上" transform="translate(523.100000, 3.000000)">
+                    <g id="消息" transform="translate(0.900000, 0.500000)">
+                        <rect id="矩形" x="0.5" y="0.5" width="40" height="40"></rect>
+                        <g id="编组-2" transform="translate(6.000000, 2.000000)">
+                            <path d="M4,29.6 L4,16 C4,10.2562386 8.6562386,5.6 14.4,5.6 C20.1437614,5.6 24.8,10.2562386 24.8,16 L24.8,29.6 L24.8,29.6" id="路径" stroke="#FFFFFF" stroke-width="3.2"></path>
+                            <polygon id="路径-3备份-2" fill="#FFFFFF" fill-rule="nonzero" points="28.8 27.2 28.8 30.4 0 30.4 0 27.2"></polygon>
+                            <polygon id="路径-3备份-3" fill="#FFFFFF" fill-rule="nonzero" points="19.0588235 32.8235294 19.0588235 36.0235294 10.5882353 36.0235294 10.5882353 32.8235294"></polygon>
+                            <polygon id="路径-3" fill="#FFFFFF" fill-rule="nonzero" transform="translate(14.400000, 2.400000) rotate(-270.000000) translate(-14.400000, -2.400000) " points="16.8 0.8 16.8 4 12 4 12 0.8"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

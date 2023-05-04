@@ -1,0 +1,21 @@
+<svg t="1635472026736" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+    <defs>
+        <linearGradient x1="0" y1="0" x2="0" y2="1" id="gradient1">
+            <stop offset="0%" stop-color="#fff3f3"></stop>
+            <stop offset="100%" stop-color="#e3e8fb" style="
+    color: white;
+"></stop>
+        </linearGradient>
+        <linearGradient x1="0" y1="0" x2="1" y2="0" id="gradient2">
+            <stop offset="0%" stop-color="#cedbfb"></stop>
+            <stop offset="100%" stop-color="#e3e8fb"></stop>
+        </linearGradient>
+    </defs>
+    <g cx="220" cy="220"  transform="rotate(-30, 220 , 220)">
+        <circle transform="rotate(-30, 220 , 220)" cx="220" cy="220" r="215" stroke-width="3"
+        stroke="url(#gradient1)" fill="none" stroke-dasharray="1350.2 1350.2" stroke-dashoffset="0">
+    </circle>
+    <circle transform="rotate(60, 220 , 220)" cx="220" cy="220" r="215" stroke-width="3"
+        stroke="url(#gradient2)" fill="none" stroke-dashoffset="0" stroke-dasharray="783.11 1350.2"></circle>
+    </g>
+</svg>

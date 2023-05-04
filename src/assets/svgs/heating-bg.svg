@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="307px" viewBox="0 0 750 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>背景</title>
+    <defs>
+        <filter x="-46.9%" y="-83.3%" width="193.8%" height="266.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-45.6%" y="-131.6%" width="191.2%" height="363.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-45.6%" y="-131.6%" width="191.2%" height="363.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#979797" stop-opacity="0.45" offset="25.7366376%"></stop>
+            <stop stop-color="#979797" offset="49.5972619%"></stop>
+            <stop stop-color="#979797" stop-opacity="0.45" offset="74.2016007%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="设备控制页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板备份-3" transform="translate(-1805.000000, -655.000000)">
+            <g id="编组备份" transform="translate(1805.000000, 655.000000)">
+                <ellipse id="椭圆形" fill="#979797" opacity="0.149999991" filter="url(#filter-1)" cx="375" cy="240" rx="160" ry="90"></ellipse>
+                <ellipse id="椭圆形备份" fill="#979797" opacity="0.049999997" filter="url(#filter-2)" cx="585.5" cy="250" rx="164.5" ry="57"></ellipse>
+                <ellipse id="椭圆形备份-2" fill="#979797" opacity="0.049999997" filter="url(#filter-3)" cx="164.5" cy="250" rx="164.5" ry="57"></ellipse>
+                <path d="M750,193.556332 L750,776.556332 L479.198857,776.556332 C456.417969,776.556332 434.319893,784.334602 416.561641,798.603916 L409.5,804.278166 C389.349607,820.46964 360.650393,820.46964 340.5,804.278166 L333.438359,798.603916 C315.680107,784.334602 293.582031,776.556332 270.801143,776.556332 L0,776.556332 L0,776.556332 L0,244.794876" id="路径" stroke="url(#linearGradient-4)" stroke-width="5" fill="#FBFBFC" transform="translate(375.000000, 512.778166) scale(1, -1) translate(-375.000000, -512.778166) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

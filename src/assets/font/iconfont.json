@@ -1,0 +1,16 @@
+{
+  "id": "3424634",
+  "name": "app-wingto.com",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "samrtHome-app",
+  "glyphs": [
+    {
+      "icon_id": "29938814",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    }
+  ]
+}
